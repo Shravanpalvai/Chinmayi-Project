@@ -10,3 +10,6 @@
 2. Run the installer.
 3. Follow the instructions on the screen.
 4. Click **Finish** to complete the installation.
+# Installation steps
+1) sajfjasdhfsad
+2) installation guide
